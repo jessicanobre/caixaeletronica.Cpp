@@ -1,9 +1,8 @@
-Claro, aqui está uma documentação detalhada para o seu código C++:
 
 # Documentação do Programa de Saque em Caixa Eletrônico
 
 ## Descrição Geral
-Este programa em C++ é projetado para calcular a quantidade de notas de dinheiro necessárias para compor um valor específico de saque em um caixa eletrônico. O programa considera notas de 50, 20, 10 e 5.
+Este programa em C++ é projetado para calcular a quantidade de notas de dinheiro necessárias para compor um valor específico de saque em um caixa eletrônico. O programa considera notas de 50, 20, 10, 5 e 2.
 
 ## Bibliotecas Utilizadas
 O programa utiliza duas bibliotecas padrão do C++:
@@ -13,7 +12,7 @@ O programa utiliza duas bibliotecas padrão do C++:
 ## Funções
 
 ### Função `contaNotas`
-Esta função recebe um valor de saque e retorna um array com a quantidade de cada nota necessária para compor esse valor. As notas consideradas são de 50, 20, 10 e 5.
+Esta função recebe um valor de saque e retorna um array com a quantidade de cada nota necessária para compor esse valor. As notas consideradas são de 50, 20, 10, 5 e 2.
 
 #### Parâmetros
 - `saque`: um inteiro que representa o valor total a ser sacado.
